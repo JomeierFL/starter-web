@@ -1,6 +1,6 @@
 #Starter Web Project
 
-Hello just adding a line for rebasing example.
+Hello just adding a line for rebasing example, then more changes from myfeature branch too.
 
 ##Introduction
 Hey guys..
