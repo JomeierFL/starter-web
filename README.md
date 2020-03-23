@@ -18,4 +18,4 @@ To deploy this project...
 ##Adding some more things
 
 ##Copyright
-Git.Training
+Git.Training. All rights reserved.
