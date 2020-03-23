@@ -1,6 +1,7 @@
 #Starter Web Project
 
 Hello just adding a line for rebasing example, then more changes from myfeature branch too.
+Adding some more text for stash example.
 
 ##Introduction
 Hey guys..
