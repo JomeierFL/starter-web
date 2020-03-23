@@ -7,6 +7,7 @@
 ##How To Contribute
 
 ##Deployment
+To deploy this project...
 
 ##Adding some more things
 
