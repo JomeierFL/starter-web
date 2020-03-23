@@ -1,8 +1,10 @@
 #Starter Web Project
 
 ##Introduction
+Hey guys..
 
 ##Purpose
+Just to practice git.
 
 ##How To Contribute
 
